@@ -91,7 +91,7 @@ Analyzing the performance by school type, shows a significant difference between
 
 - Charter schools also showed higher average math and reading scores, as well as a higher percentage of students passing both. No significant drop-off was observed as students progressed to higher grades. This most likely indicates a consistant level of education across all grade levels.
 
-![Scores by School Type](PyCitySchools/Resources/scores_by_School_Type)
+![Scores by School Type](PyCitySchools/Resources/scores_by_school_type.png)
 
 ## Conclusions
 1. Spending Efficiency: Higher spending per student does not necessarily translate to better academic performance. Schools with lower per-student spending performed better in terms of overall passing rates, indicating that efficient resources allocation and management are more critical than the actual total amount spent of each student.
