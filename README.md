@@ -1,4 +1,5 @@
 # pandas-challenge
+(starter code for this challenge was provided via the course, hence the main jupyter file still being named: PyCitySchools_starter)
 
 ## Description
 The `pandas-challenge` project consists of a Python script designed to analyze school and student data. The analysis focuses on generating insights that can help the school board and mayor make strategic decisions regarding future school budgets and priorities.
